@@ -1,0 +1,132 @@
+*{
+    margin:0px; 
+    padding:0px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 32px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+a:hover{
+    text-decoration:underline;
+}
+ul{
+    display:none;
+}
+li{
+    list-style:none;
+    font-size: 24px;
+}
+#SeventeenFour:hover #Seventeenfour{
+    display:block;
+}
+#SeventeenEleven:hover #Seventeeneleven{
+    display:block;
+}
+.MuLu{
+    font-size: 32px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 60px;
+    font-family: Arial,Helvetica,sans-serif;
+    opacity: 0.8;
+}
+h4{
+    font-size: 44px;
+    font-family: Arial,Helvetica,sans-serif;
+    opacity: 0.7;
+}
+body{
+    height:100%;
+    width: 100%;
+    background-size: 100%;
+    background-image: url(../cailiao/background2.jpg);
+}
+/*#FuDongKuang{
+    position:fixed; 
+    z-index:1;
+    right:0;
+    bottom:50%;
+}*/
+#first{
+    margin: 0% 5%;
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:100%;
+    float: left;
+    font-size: 1.8em;
+}
+.logo{
+    margin: 1%;
+    width:auto;
+    height:auto;
+    max-width:15%;
+    max-height:15%;
+    float: left;
+}
+#Headline{
+    margin: 2% 4%;
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:100%;
+    float: left;
+}
+.Fengmina{
+    width:auto;
+    height:auto;
+    max-width:8%;
+    max-height:8%;
+    float: left;
+}
+.fengmian{
+    width:auto;
+    height:auto;
+    max-width:8%;
+    max-height:8%;
+    float: left;
+}
+#WangQi{
+    margin:2% 0% 2% 5%;
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:100%;
+}
+#WenZhang{
+    margin: 2% 0% 2% 5%;
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:100%;
+}
+#XiangGuanLink{
+    margin:2% 0% 2% 5%;
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:100%;
+}
+button{
+    background:none ;
+    border:none;
+}
+.XiaZai,.LianJie{   
+    margin:1%;
+}
+#LianXiWoMen{
+    margin:2% 0% 2% 5%;
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:100%;
+}
+#email{
+    font-size: 32px;
+}
